@@ -1,0 +1,29 @@
+#body{
+    display: grid;
+    place-items:centre;
+    background-color: bisque;
+    width:70vw;
+    height: 40vw;
+    margin-left: 20vw;
+    border: 2px solid salmon;
+    margin-top: 20vh;
+   
+}
+
+body h1{
+    margin-left: 5vw;
+}
+
+#container
+{
+    display:flex;
+    margin-left: 7vw;
+    
+}
+
+.input{
+    margin-right: 5vw;
+    
+}
+
+
